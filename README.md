@@ -1,5 +1,9 @@
-## front-end-resources
+## 前端资源
 ### 网站
+- [stackoverflow](https://stackoverflow.com/)
+- [github](https://github.com/)
+- [MDN](https://developer.mozilla.org/zh-CN/docs/Learn)
+- [segmentfault](https://segmentfault.com/)
 - [W3cplus](http://www.w3cplus.com/)
 - [阮一峰的个人网站](http://www.ruanyifeng.com)
 - [鑫空间 鑫生活](http://www.zhangxinxu.com/)
@@ -7,7 +11,7 @@
 
 ### 视频
 - [慕课网](http://www.imooc.com/)
- [网易课堂](http://study.163.com/)
+- [网易课堂](http://study.163.com/)
 
 ### 书籍
 - 《JavaScript高级程序设计》
