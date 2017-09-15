@@ -46,9 +46,12 @@
 - [2. web前端开发分享-css,js进阶篇](http://www.cnblogs.com/jikey/p/3601666.html)
 
 ### 建站
-#### 基于github搭建的博客
+#### 基于github搭建个人博客
 - [hexo官网](https://hexo.io/)
 - [https://hexo.io/docs/troubleshooting.html](https://hexo.io/docs/troubleshooting.html)
+
+### 求职
+- [github简历生成器](https://resume.github.io/)
 
 
 
