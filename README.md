@@ -11,6 +11,9 @@
 - [前端知识月刊](http://jsfront.org/month/)
 - [豪情前端作品列表 - 着重于原生js的研究与探索](https://jikeytang.github.io/)
 - [原生JavaScript学习](http://fgm.cc/learn/)
+- [酷壳](https://coolshell.cn/)
+
+
 
 ### 视频
 - [慕课网](http://www.imooc.com/)
@@ -21,6 +24,10 @@
 - 《JavaScript权威指南》
 - 《精通CSS 高级Web标准解决方案（第2版）》
 - 《图解HTTP》
+
+### 程序界
+- 陈皓：20年软件开发相关工作经验，10年以上项目和团队管理经验。技术擅长C/C++/Java和Unix/Linux/Windows。
+- 阮一峰：70年代出生于上海。毕业于上海财经大学，经济学博士，同时也是程序员。个人博客为阮一峰的网络日志，目前在阿里任职。
 
 ### JavaScript相关
 - [JavaScript 有什么奇技淫巧？](https://www.zhihu.com/question/27428135)
@@ -35,7 +42,13 @@
 
 ### 其它文章
 - [年后跳槽如何准备？](http://www.cnblogs.com/jikey/p/5201185.html)
+- [如果有人让你推荐前端技术书，请让他看这个列表](http://web.jobbole.com/86734/)
+- [2. web前端开发分享-css,js进阶篇](http://www.cnblogs.com/jikey/p/3601666.html)
 
+### 建站
+#### 基于github搭建的博客
+- [hexo官网](https://hexo.io/)
+- [https://hexo.io/docs/troubleshooting.html](https://hexo.io/docs/troubleshooting.html)
 
 
 
