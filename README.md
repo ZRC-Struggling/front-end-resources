@@ -53,6 +53,7 @@
 - [年后跳槽如何准备？](http://www.cnblogs.com/jikey/p/5201185.html)
 - [如果有人让你推荐前端技术书，请让他看这个列表](http://web.jobbole.com/86734/)
 - [2. web前端开发分享-css,js进阶篇](http://www.cnblogs.com/jikey/p/3601666.html)
+- [cursor-CSS|MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
 
 ### 建站
 #### 基于github搭建个人博客
