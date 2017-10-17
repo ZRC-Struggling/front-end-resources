@@ -13,6 +13,8 @@
 - [豪情前端作品列表 - 着重于原生js的研究与探索](https://jikeytang.github.io/)
 - [原生JavaScript学习](http://fgm.cc/learn/)
 - [酷壳](https://coolshell.cn/)
+- [Busy (忙姐 / 海涛)](http://moyu-edu.com/b/)
+
 
 #### 团队博客
 - [淘宝](http://taobaofed.org/)
@@ -36,6 +38,18 @@
 - 陈皓：20年软件开发相关工作经验，10年以上项目和团队管理经验。技术擅长C/C++/Java和Unix/Linux/Windows。
 - 阮一峰：70年代出生于上海。毕业于上海财经大学，经济学博士，同时也是程序员。个人博客为阮一峰的网络日志，目前在阿里任职。
 - 小胡子哥：李靖，92年出生，毕业于华中科技大学电子信息工程专业,不可多得的后起之秀，目前就职于阿里。
+
+### 编辑器
+- Sublime
+- Atom
+- WebStorm
+
+### 在线编辑器
+- [JSFiddle](https://jsfiddle.net/)
+- [codepen](https://codepen.io/)
+- [runjs](http://runjs.cn/code)
+
+
 
 ### JavaScript相关
 - [JavaScript 有什么奇技淫巧？](https://www.zhihu.com/question/27428135)
