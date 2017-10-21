@@ -52,7 +52,7 @@
 - 陈皓：20年软件开发相关工作经验，10年以上项目和团队管理经验。技术擅长C/C++/Java和Unix/Linux/Windows。
 - 阮一峰：70年代出生于上海。毕业于上海财经大学，经济学博士，同时也是程序员。个人博客为阮一峰的网络日志，目前在阿里任职。
 - 小胡子哥：李靖，92年出生，毕业于华中科技大学电子信息工程专业,不可多得的后起之秀，目前就职于阿里。
-...
+- ...
 
 ### JavaScript相关
 - [JavaScript 有什么奇技淫巧？](https://www.zhihu.com/question/27428135)
@@ -84,7 +84,7 @@
 ### 求职
 - [github简历生成器](https://resume.github.io/)
 
-### 查看各个浏览器的默认样式表（user agent stylesheet）
+### 浏览器默认样式表（user agent stylesheet）
 #### Firefox (Gecko)
 - 本地版：地址栏输入resource://gre-resources/
 - 在线版（可能失效）: [html.css](https://mxr.mozilla.org/mozilla-central/source/layout/style/html.css) 
@@ -92,7 +92,7 @@
 [html.css](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
 #### Internet Explorer (Trident), all versions
 [Internet Explorer UA Style Sheets](http://www.iecss.com/)
-#### 关于浏览器默认样式表的相关链接
+#### other links about user agent stylesheet
 - [user-agent-style-sheets/](https://meiert.com/en/blog/user-agent-style-sheets/)
 - [browsers-default-css-for-html-elements](https://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements?noredirect=1)
 
