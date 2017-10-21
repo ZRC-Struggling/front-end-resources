@@ -85,11 +85,13 @@
 - [github简历生成器](https://resume.github.io/)
 
 ### 查看各个浏览器的默认样式表（user agent stylesheet）
-#### Firefox (Gecko):
+#### Firefox (Gecko)
 - 本地版：地址栏输入resource://gre-resources/
 - 在线版（可能失效）: [html.css](https://mxr.mozilla.org/mozilla-central/source/layout/style/html.css) 
-#### Chrome/Safari (WebKit): [html.css](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
-#### Internet Explorer (Trident), all versions: [Internet Explorer UA Style Sheets](http://www.iecss.com/)
+#### Chrome/Safari (WebKit)
+[html.css](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
+#### Internet Explorer (Trident), all versions
+[Internet Explorer UA Style Sheets](http://www.iecss.com/)
 #### 关于浏览器默认样式表的相关链接
 - [user-agent-style-sheets/](https://meiert.com/en/blog/user-agent-style-sheets/)
 - [browsers-default-css-for-html-elements](https://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements?noredirect=1)
