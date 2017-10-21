@@ -16,13 +16,16 @@
 - [Busy (忙姐 / 海涛)](http://moyu-edu.com/b/)
 
 
-#### 团队博客
+### 团队博客
 - [淘宝](http://taobaofed.org/)
 - [百度](http://fex.baidu.com/)
 - [腾讯](http://www.alloyteam.com/)
 - [奇虎360](https://75team.com/)
 
-
+### 网址导航
+- [前端网址导航-大前端](http://www.daqianduan.com/nav)
+- [i玩林|首页 - 最全的前端导航|运动风|冷生活](http://www.iwan0.com/)
+- [前端收藏夹](http://collect.w3ctrain.com/)
 
 ### 视频
 - [慕课网](http://www.imooc.com/)
@@ -61,6 +64,19 @@
 
 ### CSS相关
 - [css 填坑常用代码分享](http://www.cnblogs.com/jikey/p/4233003.html)
+### 查看各个浏览器的默认样式表（user agent stylesheet）
+#### Firefox (Gecko):
+- 本地版：地址栏输入resource://gre-resources/
+- 在线版（可能失效）；[html.css](https://mxr.mozilla.org/mozilla-central/source/layout/style/html.css) 
+#### Chrome/Safari (WebKit):[html.css](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
+#### Internet Explorer (Trident), all versions: [Internet Explorer UA Style Sheets](http://www.iecss.com/)
+#### 关于浏览器默认样式表的相关链接
+- [user-agent-style-sheets/](https://meiert.com/en/blog/user-agent-style-sheets/)
+- [browsers-default-css-for-html-elements](https://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements?noredirect=1)
+
+### 正则表达式相关
+- [JS正则可视化工具](https://regexper.com/)
+- [https://regexr.com/](https://regexr.com/)
 
 ### 其它文章
 - [如何写一个简单的分页](http://f2e.souche.com/blog/ru-he-xie-ge-jian-dan-de-fen-ye/)
