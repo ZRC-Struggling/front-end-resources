@@ -57,6 +57,8 @@
 - Octotree
 - Github Hovercard
 - Awesome Autocomplete for GitHub
+#### chrome的第三方插件网站
+- [https://www.crx4chrome.com/](https://www.crx4chrome.com/)
 
 ### 程序界
 - 陈皓：20年软件开发相关工作经验，10年以上项目和团队管理经验。技术擅长C/C++/Java和Unix/Linux/Windows。
